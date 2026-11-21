@@ -9,7 +9,7 @@ inside that budget.
 
 ## Setup
 
-### 1. Get an ElevenLabs API key
+### 1. Get an ElevenLabs API keydsaddsad
 
 1. Sign up at [elevenlabs.io](https://elevenlabs.io) — the free tier needs no credit card.
 2. Account menu (bottom-left avatar) → **API Keys** → **Create API Key**. Copy it immediately;
