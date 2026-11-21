@@ -2,7 +2,7 @@
 
 Describe a situation, cast two to five AI agents — each with its own ElevenLabs voice, role,
 and knowledge base — and let them debate it out loud. Hold the talk button to interrupt and
-question the panel mid-debate.
+question the panel mid-debate.asd
 
 **The whole debate lasts 1 minute** (adjustable, 30–180s). Every turn from every agent fits
 inside that budget.
